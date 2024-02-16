@@ -1,3 +1,3 @@
 # Markdown Template in Github Markdown Files.
 
-[Markdown Templatet](https://github.com/IzanamiiDevv/Markdown-Template/Template/markdown.md)
+[Go to Markdown Template](https://github.com/IzanamiiDevv/Markdown-Template/blob/main/Template/markdown.md)
