@@ -118,3 +118,11 @@ To check the task replace the space between the bracket with "x".
 ## Reference
 
 Link: [markdown guide](https://www.markdownguide.org/cheat-sheet)
+
+
+
+
+This is The Example Usage of paragraph tag in html
+```html
+<p>Pogi Si Arturo</p>
+```
