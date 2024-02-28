@@ -124,8 +124,8 @@ Link: [markdown guide](https://www.markdownguide.org/cheat-sheet)
 
 
 
-This is The Example Usage of console.log in js
+This is The Example Usage of console.log in JS
 ```javascript
-<p>Hello World!</p>
+console.log("Hello World");
 ```
 
