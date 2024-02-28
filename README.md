@@ -1,3 +1,3 @@
-# Markdown Template in Github Markdown Files.
+# Markdown Cheat Sheet
 
 
