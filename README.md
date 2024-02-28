@@ -124,8 +124,8 @@ Link: [markdown guide](https://www.markdownguide.org/cheat-sheet)
 
 
 
-This is The Example Usage of paragraph tag in html
-```html
-<p>Pogi Si Arturo</p>
+This is The Example Usage of console.log in js
+```javascript
+<p>Hello World!</p>
 ```
 
